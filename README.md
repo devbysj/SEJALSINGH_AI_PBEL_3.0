@@ -1,16 +1,13 @@
-# React + Vite
+# 🧬 HireSense AI — Next-Gen Resume Intelligence Matrix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HireSense AI is an ultra-premium, high-performance SaaS automation architecture engineered to outperform generic application filters. It empowers engineering students and developers by providing real-time telemetry analytics on their profile structures.
 
-Currently, two official plugins are available:
+## ⚡ Core Computational Features
+* **ATS Deep-Scan Parsing:** Deconstructs resume syntax blocks against enterprise schemas to filter out trap variables.
+* **Semantic Skill Gap Analysis:** Contextual intelligence that extracts high-value keyword delta vectors.
+* **Predictive Interview Cockpit:** Generates targeted technical, HR, and behavioral challenges customized to the profile.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack & Architecture
+* **Frontend:** React.js, Tailwind CSS, Framer Motion, Lucide Icons
+* **Backend Nodes:** Node.js, Express.js server frameworks
+* **Database & Auth:** Firebase Security Infrastructure
